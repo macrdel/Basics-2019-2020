@@ -1,0 +1,2 @@
+Заданная строка: try to understand this text
+Полученная строка:  try to understand thistry textto 
